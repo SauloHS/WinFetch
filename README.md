@@ -48,7 +48,7 @@ That's it.
 
 | Feature | Status |
 |----------|----------|
-| Windows system information | I mean, kinda of |
+| Windows system information | I mean, kind of |
 | Fast startup | Prob no |
 | Minimal dependencies | Idk |
 | Terminal-friendly output | Idk |
@@ -191,6 +191,14 @@ If you find a problem, solve it yourself, I ain't doing any of that.
 If you have a better way to implement something, implement it yourself, I ain't doing any of that.
 
 If you want to rewrite the entire project for no reason whatsoever, that's uhmm, interesting.
+
+If you want something changed, fork it.
+
+If you improve it, congratulations.
+
+If you break it, congratulations.
+
+Just don't ask me nothing
 
 ---
 
