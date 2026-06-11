@@ -7,11 +7,11 @@
 
 ### A completely unnecessary system fetch utility for Windows.
 
-[![Release](https://img.shields.io/github/v/release/YOUR_USERNAME/winfetch?style=for-the-badge)](../../releases)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/winfetch?style=for-the-badge)](../../stargazers)
-[![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/winfetch?style=for-the-badge)](../../network/members)
-[![Issues](https://img.shields.io/github/issues/YOUR_USERNAME/winfetch?style=for-the-badge)](../../issues)
-[![License](https://img.shields.io/github/license/YOUR_USERNAME/winfetch?style=for-the-badge)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/SauloHS/winfetch?style=for-the-badge)](../../releases)
+[![Stars](https://img.shields.io/github/stars/SauloHS/winfetch?style=for-the-badge)](../../stargazers)
+[![Forks](https://img.shields.io/github/forks/SauloHS/winfetch?style=for-the-badge)](../../network/members)
+[![Issues](https://img.shields.io/github/issues/SauloHS/winfetch?style=for-the-badge)](../../issues)
+[![License](https://img.shields.io/github/license/SauloHS/winfetch?style=for-the-badge)](LICENSE)
 [![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 
 <br>
