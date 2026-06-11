@@ -111,7 +111,7 @@ Bruh go see screenshot section I ain't copying the ascii caracteres from my term
 ## Building
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/winfetch.git
+git clone https://github.com/SauloHS/winfetch.git
 
 cd winfetch
 
@@ -126,14 +126,14 @@ cargo build
 winfetch/
 │
 ├── assets/
-│   ├── banner.png
 │   └── screenshot.png
 │
 ├── src/
-│
+│   └── main.rs
 ├── README.md
 │
-└── LICENSE
+├── LICENSE
+└── bunch more things i'm lazy to write
 ```
 
 ---
@@ -160,13 +160,13 @@ This repository is the result of that process.
 
 ---
 
-## Non-Goals
+## Future Goals
 
-- Replacing existing fetch tools
-- Becoming production software
-- Collecting analytics
-- Adding AI features
-- Creating a startup
+- Collect analytics
+- Add AI features
+
+Jk these are both LIES
+I ain't updating this repo
 
 ---
 
@@ -174,7 +174,7 @@ This repository is the result of that process.
 
 WinFetch was designed around a single guiding principle:
 
-> Start fast. Print information. Exit.
+> Start kinda slow. (Dev note: Maybe) Print information. Exit <- that one really happens.
 
 Anything beyond that would probably be overengineering.
 
@@ -186,11 +186,11 @@ Contributions are not welcome.
 
 Bug fixes, improvements, refactors, and suggestions are not appreciated.
 
-If you find a problem, solve it yourself, im not doing any of that.
+If you find a problem, solve it yourself, I ain't doing any of that.
 
-If you have a better way to implement something, implement it yourself, im not doing any of that.
+If you have a better way to implement something, implement it yourself, I ain't doing any of that.
 
-If you want to rewrite the entire project for no reason whatsoever, that's also acceptable.
+If you want to rewrite the entire project for no reason whatsoever, that's uhmm, interesting.
 
 ---
 
@@ -210,7 +210,7 @@ Definitely not.
 
 ### Then why does it exist?
 
-Because building things is fun.
+Because I have a computer for a reason.
 
 ---
 
@@ -240,6 +240,10 @@ See the [LICENSE](LICENSE) file for details.
 
 **WinFetch**
 
-*A study project that somehow became a real repository.*
+*A study project that became a real repository cuz git is free.*
+
+Don't use it, or use it. I don't care actually
+
+Yes, this readme was partially written by ChatGPT, I just wrote it in my lazy as$ way
 
 </div>
