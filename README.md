@@ -234,9 +234,7 @@ Special thanks to every project that made someone think:
 
 ## License
 
-Released under the MIT License.
-
-See the [LICENSE](LICENSE) file for details.
+Read LICENSE file if u want. If not, I don't read licenses too, so it's acceptable
 
 ---
 
