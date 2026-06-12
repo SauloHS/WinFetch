@@ -252,4 +252,9 @@ Don't use it, or use it. I don't care actually
 
 Yes, this readme was partially written by ChatGPT, I just wrote it in my lazy as$ way
 
+Edit: I benchmarked it and it's around 300ms slower than fastfetch: <img width="1706" height="503" alt="image" src="https://github.com/user-attachments/assets/02539fc3-4cd2-4fa1-ad66-f3a5e7e21bae" />
+
+Use fastfetch guys!
+
+
 </div>
